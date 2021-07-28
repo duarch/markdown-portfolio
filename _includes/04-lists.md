@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Design
+2. Develop
+3. Build
+4. Deploy
